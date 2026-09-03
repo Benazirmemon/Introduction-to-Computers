@@ -13,3 +13,23 @@ Computers can be classified by their size and processing capabilities:
 | **Supercomputers** | Complex scientific calculations | IBM Summit |
 | **Mainframes** | Large-scale transaction processing | IBM z16 |
 | **Microcomputers** | Personal daily computing | Laptops, Desktops |
+
+
+## 3. History of Computers
+The evolution of computing is divided into distinct generations:
+1. *First Generation:* Vacuum tubes.
+2. *Second Generation:* Transistors.
+
+##  Tools Used
+* Git (Version Control System)
+* GitHub (Cloud Repository Hosting)
+
+### Task List
+- [x] Create GitHub repository
+- [x] Create feature branch
+- [x] Commit changes at least 3 times
+
+##  References & Media
+* Learn more on the [Official GitHub Documentation](https://github.com).
+
+![Computer Image](https://unsplash.com)
